@@ -54,10 +54,14 @@
 
 ## Credits
 
-  -  React Native
-  -  Expo CLI
-  -  OpenWeb Ninja for providing the JSearch API
+  -  [React Native](https://reactnative.dev/)
+  -  [Expo CLI](https://docs.expo.dev/more/expo-cli/)
+  -  [OpenWeb](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch/) Ninja for providing the JSearch API
 
 ## License
 
 - This project is licensed under the GNU General Public License v3.0.
+
+## Contact
+-  [![General badge]([https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedkhairallah/)
+-  
